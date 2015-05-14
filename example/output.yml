@@ -1,0 +1,661 @@
+speakers:
+    -
+        name: 'Adam Harvey'
+        gravatar: 'http://0.gravatar.com/avatar/600722fc9662ebf3018d6c4237bb01f2?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'New Relic'
+        twitter: '@LGnome'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'PHP 7 is (Almost) Here. OMG! PANIC!'
+                room: Automattic
+                when: 'Conference Day 2: May 21st, 10:30a - 11:30a'
+    -
+        name: 'Andrew Cassell'
+        gravatar: 'http://1.gravatar.com/avatar/be9645e99392d37fd0e8018f22122fc3?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Marine Spill Response Corporation'
+        twitter: '@alc277'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Responsive Web Design for Non-Designers'
+                room: ServerGrove
+                when: 'Conference Day 2: May 21st, 2:00p - 3:00p'
+            -
+                type: 'Short Talk'
+                level: Intermediate
+                title: 'Manage Private Internal Dependencies With Composer and Satis'
+                room: Rosemont
+                when: 'Conference Day 1: May 20th, noon - 12:30p'
+    -
+        name: 'Beau Simensen'
+        gravatar: 'http://0.gravatar.com/avatar/23d971deeb3975a7d28246192fbbe7b7?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: dflydev
+        twitter: '@beausimensen'
+        talks:
+            -
+                type: Tutorial
+                level: Beginner
+                title: 'Managing Dependencies with Composer'
+                room: Chicago
+                when: 'Tutorial Day: May 19th, 9:00a - 12:30p'
+    -
+        name: 'Ben Marks'
+        gravatar: 'http://0.gravatar.com/avatar/c5e60bbd84e2e241a164201b05ff8257?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Magento
+        twitter: '@benmarks'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Magento 2>1: Modernizing an Open-Source eCommerce Powerhouse'
+                room: ServerGrove
+                when: 'Conference Day 2: May 21st, 5:00p - 6:00p'
+    -
+        name: 'Ben Ramsey'
+        gravatar: 'http://0.gravatar.com/avatar/0c217b9a7dd0aa31ed40bd0f453727e1?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: ShootProof
+        twitter: '@ramsey'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'A Toolbox for APIs and Integrations'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, 2:00p - 3:00p'
+            -
+                type: Session
+                level: Intermediate
+                title: 'HTTP is Dead. Long Live HTTP/2!'
+                room: Automattic
+                when: 'Conference Day 3: May 22nd, 9:00a - 10:00a'
+    -
+        name: 'Bradley Holt'
+        gravatar: 'http://0.gravatar.com/avatar/0570aeae24a9754d6e59c54a2052b7e2?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'IBM Cloudant'
+        twitter: '@BradleyHolt'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Building Offline-Enabled Apps with PouchDB'
+                room: Rosemont
+                when: 'Conference Day 1: May 20th, 5:00p - 6:00p'
+    -
+        name: 'Chris Cornutt'
+        gravatar: 'http://0.gravatar.com/avatar/224dac66704579d941e927965a6220a2?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Salesforce, Inc.'
+        twitter: '@enygma'
+        talks:
+            -
+                type: Training
+                level: Beginner
+                title: 'Web Security Training'
+                room: Chicago
+                when: 'Training Day: May 18th, 9:00a - 5:30p'
+    -
+        name: 'Chris Tankersley'
+        gravatar: 'http://0.gravatar.com/avatar/80ba825f3d9a2480ce84224632cf8d08?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Tankersley Web Solutions, LLC'
+        twitter: '@dragonmantank'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'OOP is More Than Cars and Dogs'
+                room: Rosemont
+                when: 'Conference Day 1: May 20th, 10:30a - 11:30a'
+    -
+        name: 'Dave Stokes'
+        gravatar: 'http://0.gravatar.com/avatar/c0fe36ac77bf9a0ebe01f0b7844c8e7f?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Oracle
+        twitter: '@Stoker'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'MySQL Replication for Beginners'
+                room: ServerGrove
+                when: 'Conference Day 3: May 22nd, 9:00a - 10:00a'
+    -
+        name: 'Davey Shafik'
+        gravatar: 'http://1.gravatar.com/avatar/fee39f0c0ffb29d9ac21607ed188be6b?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Engine Yard'
+        twitter: '@dshafik'
+        talks:
+            -
+                type: Session
+                level: Advanced
+                title: 'Extending MySQL with PHP''s MySQL Native Driver'
+                room: Rosemont
+                when: 'Conference Day 1: May 20th, 2:00p - 3:00p'
+    -
+        name: 'Derick Rethans'
+        gravatar: 'http://1.gravatar.com/avatar/3d2f591d8fd2f3a674bbeb07c3ea2cf2?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: MongoDB
+        twitter: '@derickr'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Debugging: Past, Present and Future'
+                room: Automattic
+                when: 'Conference Day 1: May 20th, 10:30a - 11:30a'
+            -
+                type: Session
+                level: Advanced
+                title: 'One Extension, Two Engines'
+                room: Rosemont
+                when: 'Conference Day 2: May 21st, 10:30a - 11:30a'
+            -
+                type: Training
+                level: Beginner
+                title: 'MongoDB Essentials'
+                room: Rosemont
+                when: 'Training Day: May 18th, 9:00a - 5:30p'
+    -
+        name: 'Eric Mann'
+        gravatar: 'http://0.gravatar.com/avatar/46093583d8895095adb1b0071c505af2?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 10up
+        twitter: '@ericmann'
+        talks:
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'Rediscover the Power of WordPress'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, noon - 12:30p'
+            -
+                type: Tutorial
+                level: Intermediate
+                title: 'Testing as Regression Prevention'
+                room: ServerGrove
+                when: 'Tutorial Day: May 19th, 2:00p - 5:30p'
+    -
+        name: 'Gemma Anible'
+        gravatar: 'http://0.gravatar.com/avatar/6a23644e178a695f7bcfb9fbdc28f6e6?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Giguebytes, LLC'
+        twitter: '@ellotheth'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Testing Spaghetti'
+                room: Automattic
+                when: 'Conference Day 1: May 20th, 2:00p - 3:00p'
+            -
+                type: Session
+                level: Intermediate
+                title: 'Navigating Your Git Repository'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, 5:00p - 6:00p'
+    -
+        name: 'Hao Luo'
+        gravatar: 'http://0.gravatar.com/avatar/ea35e03077fbcb98193806dfd9eba26d?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Northwestern University'
+        twitter: '@howlowck'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Ditching jQuery'
+                room: ServerGrove
+                when: 'Conference Day 2: May 21st, 10:30a - 11:30a'
+    -
+        name: 'Hugo Hamon'
+        gravatar: 'http://0.gravatar.com/avatar/a591f2ab4e3cade8ecd404b2a20acfaf?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: SensioLabs
+        twitter: '@hhamon'
+        talks:
+            -
+                type: Tutorial
+                level: Intermediate
+                title: 'Introduction to Design Patterns in PHP'
+                room: Rosemont
+                when: 'Tutorial Day: May 19th, 2:00p - 5:30p'
+    -
+        name: 'Ilia Alshanetsky'
+        gravatar: 'http://1.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Advanced Internet Designs Inc.'
+        twitter: '@iliaa'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Business Logic Security'
+                room: Automattic
+                when: 'Conference Day 1: May 20th, 3:30p - 4:30p'
+    -
+        name: 'Jeff Carouth'
+        gravatar: 'http://0.gravatar.com/avatar/0f930e13633535c1c4041e95b8881308?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Liftopia, Inc.'
+        twitter: '@jcarouth'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Dependency Injection, Dependency Inversion, and You'
+                room: Chicago
+                when: 'Conference Day 3: May 22nd, 10:30a - 11:30a'
+            -
+                type: Tutorial
+                level: Beginner
+                title: 'Fundamental Object-Oriented PHP'
+                room: Automattic
+                when: 'Tutorial Day: May 19th, 9:00a - 12:30p'
+    -
+        name: 'Jeremy Mikola'
+        gravatar: 'http://0.gravatar.com/avatar/676ec3adca70581b4c1f9978e758b515?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: MongoDB
+        twitter: ''
+        talks:
+            -
+                type: Training
+                level: Beginner
+                title: 'MongoDB Essentials'
+                room: Rosemont
+                when: 'Training Day: May 18th, 9:00a - 5:30p'
+    -
+        name: 'Jessica Rose'
+        gravatar: 'http://1.gravatar.com/avatar/7bc75ea9d9cf50aff041a4af2009f666?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Open Code'
+        twitter: '@jesslynnrose'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Impostor Syndrome and Individual Competence'
+                room: Automattic
+                when: 'Conference Day 2: May 21st, 2:00p - 3:00p'
+    -
+        name: "Joe\tFerguson"
+        gravatar: 'http://1.gravatar.com/avatar/fef6ec2170ad1ecfcacdf2ead305f040?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Vector Media Group'
+        twitter: '@joepferguson'
+        talks:
+            -
+                type: Tutorial
+                level: Beginner
+                title: 'Adventures in Laravel 5'
+                room: ServerGrove
+                when: 'Tutorial Day: May 19th, 9:00a - 12:30p'
+    -
+        name: 'Joe Shindelar'
+        gravatar: 'http://1.gravatar.com/avatar/7c49b77a97bebe0eabe6bb5cb2b66671?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Lullabot
+        twitter: '@eojthebrave'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'The Dark Art of Debugging'
+                room: Automattic
+                when: 'Conference Day 2: May 21st, 3:30p - 4:30p'
+            -
+                type: Session
+                level: Beginner
+                title: 'A Developer''s Primer to Managing Developers'
+                room: ServerGrove
+                when: 'Conference Day 3: May 22nd, 10:30a - 11:30a'
+    -
+        name: 'Jonathan Reinink'
+        gravatar: 'http://0.gravatar.com/avatar/6074dbe5dfa361c9888a705f40a49af4?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Compass Creative Studio Inc.'
+        twitter: '@reinink'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Enough about Classes, Let''s Talk Templates'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, 3:30p - 4:30p'
+            -
+                type: 'Short Talk'
+                level: Intermediate
+                title: 'Rethink Image Manipulations with Glide'
+                room: ServerGrove
+                when: 'Conference Day 2: May 21st, noon - 12:30p'
+    -
+        name: 'Jordi Boggiano'
+        gravatar: 'http://0.gravatar.com/avatar/48b79d17cd8a911327cbd88c122b1efb?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Nelmio
+        twitter: '@Seldaek'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Composer Best Practices'
+                room: Automattic
+                when: 'Conference Day 1: May 20th, 5:00p - 6:00p'
+            -
+                type: Keynote
+                level: Beginner
+                title: 'Behind the Scenes of Maintaining an Open Source Project'
+                room: ''
+                when: 'Conference Day 3: May 22nd, noon - 12:30p'
+    -
+        name: 'Joshua Silver'
+        gravatar: 'http://1.gravatar.com/avatar/be0bd97672f85e93566b3cdd3801fe64?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Patientco
+        twitter: '@1yellowbrick'
+        talks:
+            -
+                type: Session
+                level: Advanced
+                title: 'Practical Computer Science Concepts Simplified'
+                room: Rosemont
+                when: 'Conference Day 2: May 21st, 5:00p - 6:00p'
+            -
+                type: Session
+                level: Intermediate
+                title: 'Payment Processing on the Web: Behind-the-Scenes'
+                room: Rosemont
+                when: 'Conference Day 3: May 22nd, 10:30a - 11:30a'
+    -
+        name: 'Joshua Warren'
+        gravatar: 'http://0.gravatar.com/avatar/8a2e3b7e9a3e4037934e5680e16e53e1?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Creatuity
+        twitter: '@joshuaswarren'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'PHPSpec & Behat: Two Testing Tools That Write Code For You'
+                room: Rosemont
+                when: 'Conference Day 2: May 21st, 2:00p - 3:00p'
+    -
+        name: 'Loosely Coupled'
+        gravatar: 'http://1.gravatar.com/avatar/d40f53ea80b115ecb2e9619a37966f03?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: ''
+        twitter: '@_looselycoupled'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Loosely Coupled Podcast Recording'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, 9:30p - ???'
+    -
+        name: 'MajiD Fatemian'
+        gravatar: 'http://0.gravatar.com/avatar/45e35a40e10161ada861168966e03b7b?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Ubisoft
+        twitter: '@majidfn'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Polyglot Databases'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, 2:00p - 3:00p'
+    -
+        name: 'Margaret Staples'
+        gravatar: 'http://1.gravatar.com/avatar/ddb13627390d2b01c046c948b606e650?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Aesop Games'
+        twitter: '@dead_lugosi'
+        talks:
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'Doctrine ORM: What''s This, Then?'
+                room: Rosemont
+                when: 'Conference Day 2: May 21st, noon - 12:30p'
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'Templates with Twig: Easier Than You Think'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, noon - 12:30p'
+    -
+        name: 'Matthew Turland'
+        gravatar: 'http://0.gravatar.com/avatar/6cc565e2261b412a885933199e975f14?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Blopboard
+        twitter: '@elazar'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Data Structures in PHP'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, 10:30a - 11:30a'
+            -
+                type: Session
+                level: Intermediate
+                title: 'Mocking Dependencies in Unit Tests with Phake'
+                room: ServerGrove
+                when: 'Conference Day 1: May 20th, 10:30a - 11:30a'
+    -
+        name: 'Michael Heap'
+        gravatar: 'http://1.gravatar.com/avatar/bbf9decfbfc2ab5b450ec503749ded28?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: DataSift
+        twitter: '@mheap'
+        talks:
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'PHP and Standards'
+                room: Automattic
+                when: 'Conference Day 1: May 20th, noon - 12:30p'
+            -
+                type: Tutorial
+                level: Intermediate
+                title: 'Vagrant and Ansible'
+                room: Chicago
+                when: 'Tutorial Day: May 19th, 2:00p - 5:30p'
+    -
+        name: 'Michelle Sanver'
+        gravatar: 'http://0.gravatar.com/avatar/e526417c16d4bd958d0d4088db5cbd4f?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Liip
+        twitter: '@michellesanver'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Behat+Mink+PhantomJS = Test ALL THE THINGS!'
+                room: Rosemont
+                when: 'Conference Day 2: May 21st, 3:30p - 4:30p'
+            -
+                type: Session
+                level: Beginner
+                title: 'Handling Highly Connected Data with the Neo4j Graph Database'
+                room: Rosemont
+                when: 'Conference Day 1: May 20th, 3:30p - 4:30p'
+    -
+        name: 'Mike Hernandez'
+        gravatar: 'http://1.gravatar.com/avatar/109cd6c0fcb216b2f61a1496e1e2738f?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Etsy
+        twitter: '@sequethin'
+        talks:
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'The New Zone: Meditation, Mindfulness, and Code'
+                room: ServerGrove
+                when: 'Conference Day 1: May 20th, noon - 12:30p'
+            -
+                type: 'Short Talk'
+                level: Beginner
+                title: 'Testing Culture at Etsy'
+                room: Automattic
+                when: 'Conference Day 2: May 21st, noon - 12:30p'
+    -
+        name: 'Mo Jangda'
+        gravatar: 'http://1.gravatar.com/avatar/f2ad3d5d58caa9fdf62303e6bc56d09b?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: Automattic
+        twitter: '@mjangda'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Skunkworks: Fresh Ideas, No Constraints, Limitless Potential?'
+                room: ServerGrove
+                when: 'Conference Day 1: May 20th, 5:00p - 6:00p'
+    -
+        name: 'Oscar Merida'
+        gravatar: 'http://0.gravatar.com/avatar/0f0c958f0fb41d8fc12dad214539b8eb?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'php[architect]'
+        twitter: '@omerida'
+        talks:
+            -
+                type: Training
+                level: Beginner
+                title: 'PHP Foundations for Drupal 8'
+                room: ServerGrove
+                when: 'Training Day: May 18th, 9:00a - 5:30p'
+    -
+        name: 'Rosina Bignall'
+        gravatar: 'http://1.gravatar.com/avatar/b0a2d15e61f4f69482e63f6bc4ece51e?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Social & Scientific Systems, Inc.'
+        twitter: '@rosinabignall'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'Nitty Gritty AngularJS'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, 10:30a - 11:30a'
+            -
+                type: Session
+                level: Intermediate
+                title: 'Database Normalization for Developers'
+                room: ServerGrove
+                when: 'Conference Day 2: May 21st, 3:30p - 4:30p'
+    -
+        name: 'Samantha Quiñones'
+        gravatar: 'http://1.gravatar.com/avatar/f9f86bca553b2a4fc99478daaf33d2a2?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'AOL, Inc'
+        twitter: '@ieatkillerbees'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Drinking from the Firehose: Real-time Metrics'
+                room: Automattic
+                when: 'Conference Day 3: May 22nd, 10:30a - 11:30a'
+            -
+                type: Session
+                level: Beginner
+                title: 'TDD: Team-Driven Development'
+                room: ServerGrove
+                when: 'Conference Day 1: May 20th, 3:30p - 4:30p'
+    -
+        name: 'Sandy Smith'
+        gravatar: 'http://0.gravatar.com/avatar/626415d87af41271f2c06f8af614db72?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'php[architect]'
+        twitter: '@SandyS1'
+        talks:
+            -
+                type: Training
+                level: Beginner
+                title: 'Jump Start PHP Training'
+                room: 'Gateway Boardroom'
+                when: 'Training Day: May 18th, 9:00a - 5:30p'
+    -
+        name: 'Sebastian Bergmann'
+        gravatar: 'http://0.gravatar.com/avatar/83669b77c57c454d773ca5184905124e?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: thePHP.cc
+        twitter: '@s_bergmann'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Code Coverage: Covered in Depth'
+                room: Automattic
+                when: 'Conference Day 2: May 21st, 5:00p - 6:00p'
+            -
+                type: Session
+                level: Beginner
+                title: 'The Three Dimensions of Testing'
+                room: Chicago
+                when: 'Conference Day 3: May 22nd, 9:00a - 10:00a'
+    -
+        name: 'Steve Meyers'
+        gravatar: 'http://1.gravatar.com/avatar/f3f2858fc8b808eb50432773e5253ac4?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: ''
+        twitter: '@stevecoug'
+        talks:
+            -
+                type: Session
+                level: Intermediate
+                title: 'Websockets and Event-driven Programming with PHP'
+                room: ServerGrove
+                when: 'Conference Day 1: May 20th, 2:00p - 3:00p'
+    -
+        name: 'Tim Lytle'
+        gravatar: 'http://1.gravatar.com/avatar/9eda118f83eeffce85f39b7c030e407a?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Nexmo / timlytle.net ldt'
+        twitter: '@tjlytle'
+        talks:
+            -
+                type: Session
+                level: Advanced
+                title: 'Building PHP Daemons and Long Running Processes'
+                room: Rosemont
+                when: 'Conference Day 3: May 22nd, 9:00a - 10:00a'
+            -
+                type: Tutorial
+                level: Intermediate
+                title: 'The Wonderful World of APIs'
+                room: Rosemont
+                when: 'Tutorial Day: May 19th, 9:00a - 12:30p'
+    -
+        name: 'Wim Godden'
+        gravatar: 'http://0.gravatar.com/avatar/81c47e5159d488dbac96059003b8ac39?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Cu.be Solutions'
+        twitter: '@wimgtr'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: 'The Promise of Asynchronous PHP'
+                room: Chicago
+                when: 'Conference Day 2: May 21st, 3:30p - 4:30p'
+            -
+                type: Session
+                level: Advanced
+                title: 'When Dynamic Becomes Static: The Next Step in Web Caching'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, 5:00p - 6:00p'
+    -
+        name: 'Yitzchok Willroth'
+        gravatar: 'http://0.gravatar.com/avatar/216c66f0c5ed1902de550ca43390ef83?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: ''
+        twitter: '@coderabbi'
+        talks:
+            -
+                type: Keynote
+                level: Beginner
+                title: 'Everything I Needed to Know, I Learned in Rabbinical School'
+                room: ''
+                when: 'Conference Day 2: May 21st, 9:00a - 10:00a'
+            -
+                type: Tutorial
+                level: Beginner
+                title: 'Wax On, Wax Off: Coder Dojo'
+                room: Automattic
+                when: 'Tutorial Day: May 19th, 2:00p - 5:30p'
+    -
+        name: 'Zeev Suraski'
+        gravatar: 'http://1.gravatar.com/avatar/bc50a91b077db0251b361b6c0411eb40?s=200&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: 'Zend Technologies'
+        twitter: '@zeevs'
+        talks:
+            -
+                type: Keynote
+                level: Beginner
+                title: 'The PHP 7 Story'
+                room: ''
+                when: 'Conference Day 1: May 20th, 9:00a - 10:00a'
+    -
+        name: dev/hell
+        gravatar: 'http://0.gravatar.com/avatar/0ccc395b3f1b3a8e64b9d130b7070e0b?s=200&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D200&r=G'
+        company: ''
+        twitter: '@dev_hell'
+        talks:
+            -
+                type: Session
+                level: Beginner
+                title: '/dev/hell Podcast Recording'
+                room: Chicago
+                when: 'Conference Day 1: May 20th, 9:30p - ???'
