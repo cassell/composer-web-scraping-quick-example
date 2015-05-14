@@ -13,7 +13,6 @@ use \Doctrine\Common\Cache\FilesystemCache;
 define("CACHE_KEY","speakers");
 
 $cache = new FilesystemCache(__DIR__.'/cache/files');
-$cache->delete(CACHE_KEY);
 
 if ($cache->contains(CACHE_KEY)) {
     $speakers = $cache->fetch(CACHE_KEY);
