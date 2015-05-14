@@ -1,0 +1,7 @@
+{
+  "require": {
+    "fabpot/goutte": "^2.0.4",
+    "symfony/yaml": "^2.6.7",
+    "doctrine/cache": "^1.4.1"
+  }
+}
